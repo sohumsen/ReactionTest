@@ -13,6 +13,7 @@ class App extends Component {
     startGame: false,
     points: 0,
   };
+  
 
   onEndGameHandler = (points) => {
     if (this.state.points < points) {
