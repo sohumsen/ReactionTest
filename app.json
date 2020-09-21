@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "kill mosquitoes at the same time as building reflexes"
   }
 }
